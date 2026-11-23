@@ -1,0 +1,6 @@
+chat_model_name: qwen3.8-max
+max_retries: 3
+timeout: 60
+
+
+embedding_model_name: text-embedding-v4
